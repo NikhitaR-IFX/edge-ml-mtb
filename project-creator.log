@@ -1,0 +1,436 @@
+Loading the manifest data
+Loading super manfiest files from all sources
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished loading the manifest data (2652 ms)
+Loading the device db
+Finished loading the device db (5570 ms)
+INFO:Using the executable path for the tools directory.
+0 error(s), 0 warning(s)
+INFO:Using the executable path for the tools directory.
+INFO:Using the executable path for the tools directory.
+INFO:Using the executable path for the tools directory.
+INFO:Using the executable path for the tools directory.
+INFO:Using the executable path for the tools directory.
+INFO:Using the executable path for the tools directory.
+INFO:Using the executable path for the tools directory.
+INFO:Using the executable path for the tools directory.
+
+Summary: 
+
+BSP: CYSBSYSKIT-DEV-01
+Template Application(s): Hello World
+Note: The 'Hello World' application template(s) use(s) the ModusToolbox 2.x format. The application(s) do(es) not support 3.x features. See KBA236134 for instructions on how to migrate the application(s) for 3.x content compatibility.
+Application(s) Root Path: C:/Projects-2022/EdgeML/codes/model
+
+Press "Create" to create the selected application(s).
+
+Collecting application data...
+
+Info: The following entered on the command line will create the exact same project as that created with the GUI tool:
+C:/Users/Rajasekhar/ModusToolbox/tools_3.0/project-creator/project-creator-cli.exe --board-id CYSBSYSKIT-DEV-01 --board-uri https://github.com/cypresssemiconductorco/TARGET_CYSBSYSKIT-DEV-01 --board-commit latest-v3.X --app-id mtb-example-hal-hello-world --app-uri https://github.com/Infineon/mtb-example-hal-hello-world --app-commit latest-v3.X --cypress-tools C:/Users/Rajasekhar/ModusToolbox/tools_3.0 --target-dir C:/Projects-2022/EdgeML/codes/model --user-app-name inference --use-modus-shell
+
+Starting application creation for 'C:/Projects-2022/EdgeML/codes/model/inference'.
+Acquiring the application source 'https://github.com/Infineon/mtb-example-hal-hello-world'.
+Acquired application source successfully.
+Loading the application.
+Loaded the application successfully.
+Processing project 'inference'.
+Starting to commit changes to the filesystem and project 'mtb-example-psoc6-hello-world'.
+Removed the file 'C:/Projects-2022/EdgeML/codes/model/inference/deps/TARGET_CY8CPROTO-062-4343W.mtb'.
+Writing mtb file for asset 'CYSBSYSKIT-DEV-01' to the folder 'C:/Projects-2022/EdgeML/codes/model/inference/deps'.
+Writing mtb file for asset 'core-lib' to the folder 'C:/Projects-2022/EdgeML/codes/model/inference/libs'.
+Writing mtb file for asset 'core-make' to the folder 'C:/Projects-2022/EdgeML/codes/model/inference/libs'.
+Writing mtb file for asset 'mtb-hal-cat1' to the folder 'C:/Projects-2022/EdgeML/codes/model/inference/libs'.
+Writing mtb file for asset 'mtb-pdl-cat1' to the folder 'C:/Projects-2022/EdgeML/codes/model/inference/libs'.
+Writing mtb file for asset 'psoc6cm0p' to the folder 'C:/Projects-2022/EdgeML/codes/model/inference/libs'.
+Writing mtb file for asset 'recipe-make-cat1a' to the folder 'C:/Projects-2022/EdgeML/codes/model/inference/libs'.
+Writing mtb file for asset 'retarget-io' to the folder 'C:/Projects-2022/EdgeML/codes/model/inference/deps'.
+Starting: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_TARGET_CYSBSYSKIT-DEV-01/TARGET_CYSBSYSKIT-DEV-01 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_psoc6cm0p/psoc6cm0p config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_TARGET_CYSBSYSKIT-DEV-01/TARGET_CYSBSYSKIT-DEV-01 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_TARGET_CYSBSYSKIT-DEV-01/TARGET_CYSBSYSKIT-DEV-01 fetch --all --tags --force --quiet
+Success: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io fetch --all --tags --force --quiet
+Success: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_psoc6cm0p/psoc6cm0p config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make fetch --all --tags --force --quiet
+Success: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_psoc6cm0p/psoc6cm0p fetch --all --tags --force --quiet
+Success: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 fetch --all --tags --force --quiet
+Success: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib fetch --all --tags --force --quiet
+Success: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 fetch --all --tags --force --quiet
+Success: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_TARGET_CYSBSYSKIT-DEV-01/TARGET_CYSBSYSKIT-DEV-01 fetch --all --tags --force --quiet
+Starting: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a fetch --all --tags --force --quiet
+Success: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make fetch --all --tags --force --quiet
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/inference/libs clone --origin cypress --no-checkout C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_TARGET_CYSBSYSKIT-DEV-01/TARGET_CYSBSYSKIT-DEV-01 TARGET_CYSBSYSKIT-DEV-01
+Success: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_psoc6cm0p/psoc6cm0p fetch --all --tags --force --quiet
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-make clone --origin cypress --no-checkout C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make release-v1.9.1
+Success: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib fetch --all --tags --force --quiet
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/psoc6cm0p clone --origin cypress --no-checkout C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_psoc6cm0p/psoc6cm0p release-v2.3.0
+Success: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io fetch --all --tags --force --quiet
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-lib clone --origin cypress --no-checkout C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib release-v1.3.1
+Success: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 fetch --all --tags --force --quiet
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/retarget-io clone --origin cypress --no-checkout C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io release-v1.4.0
+Cloning into 'release-v1.9.1'...
+Cloning into 'TARGET_CYSBSYSKIT-DEV-01'...
+Cloning into 'release-v2.3.0'...
+Cloning into 'release-v1.3.1'...
+done.
+done.
+Success: git -C C:/Projects-2022/EdgeML/codes/model/inference/libs clone --origin cypress --no-checkout C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_TARGET_CYSBSYSKIT-DEV-01/TARGET_CYSBSYSKIT-DEV-01 TARGET_CYSBSYSKIT-DEV-01
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-hal-cat1 clone --origin cypress --no-checkout C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 release-v2.2.0
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/psoc6cm0p clone --origin cypress --no-checkout C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_psoc6cm0p/psoc6cm0p release-v2.3.0
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/inference/libs/TARGET_CYSBSYSKIT-DEV-01 checkout release-v3.1.0
+Success: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 fetch --all --tags --force --quiet
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/psoc6cm0p/release-v2.3.0 checkout release-v2.3.0
+Cloning into 'release-v1.4.0'...
+done.
+done.
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-lib clone --origin cypress --no-checkout C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib release-v1.3.1
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-pdl-cat1 clone --origin cypress --no-checkout C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 release-v2.4.1
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-make clone --origin cypress --no-checkout C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make release-v1.9.1
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-lib/release-v1.3.1 checkout release-v1.3.1
+done.
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/retarget-io clone --origin cypress --no-checkout C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io release-v1.4.0
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-make/release-v1.9.1 checkout release-v1.9.1
+Success: git -C C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a fetch --all --tags --force --quiet
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/retarget-io/release-v1.4.0 checkout release-v1.4.0
+Cloning into 'release-v2.2.0'...
+Cloning into 'release-v2.4.1'...
+Note: switching to 'release-v3.1.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 364b834 Upload TARGET_CYSBSYSKIT-DEV-01 3.1.0.27308
+Note: switching to 'release-v2.3.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 1ac2f06 Upload psoc6cm0p 2.3.0.887
+Success: git -C C:/Projects-2022/EdgeML/codes/model/inference/libs/TARGET_CYSBSYSKIT-DEV-01 checkout release-v3.1.0
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/recipe-make-cat1a clone --origin cypress --no-checkout C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a release-v1.9.0
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/psoc6cm0p/release-v2.3.0 checkout release-v2.3.0
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/inference/libs/TARGET_CYSBSYSKIT-DEV-01 remote set-url cypress https://github.com/cypresssemiconductorco/TARGET_CYSBSYSKIT-DEV-01
+done.
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-hal-cat1 clone --origin cypress --no-checkout C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 release-v2.2.0
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/psoc6cm0p/release-v2.3.0 remote set-url cypress https://github.com/cypresssemiconductorco/psoc6cm0p
+done.
+Note: switching to 'release-v1.3.1'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at
+ 1c1cb8a Upload core-lib 1.3.1.29660
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-lib/release-v1.3.1 checkout release-v1.3.1
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-hal-cat1/release-v2.2.0 checkout release-v2.2.0
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-pdl-cat1 clone --origin cypress --no-checkout C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 release-v2.4.1
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-lib/release-v1.3.1 remote set-url cypress https://github.com/cypresssemiconductorco/core-lib
+Note: switching to 'release-v1.9.1'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 251ade9 Upload core-make 1.9.1.3159
+
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-make/release-v1.9.1 checkout release-v1.9.1
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-pdl-cat1/release-v2.4.1 checkout release-v2.4.1
+Note: switching to 'release-v1.4.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 3072757 Upload retarget-io [123]
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/retarget-io/release-v1.4.0 checkout release-v1.4.0
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-make/release-v1.9.1 remote set-url cypress https://github.com/cypresssemiconductorco/core-make
+Success: git -C C:/Projects-2022/EdgeML/codes/model/inference/libs/TARGET_CYSBSYSKIT-DEV-01 remote set-url cypress https://github.com/cypresssemiconductorco/TARGET_CYSBSYSKIT-DEV-01
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/retarget-io/release-v1.4.0 remote set-url cypress https://github.com/cypresssemiconductorco/retarget-io
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/psoc6cm0p/release-v2.3.0 remote set-url cypress https://github.com/cypresssemiconductorco/psoc6cm0p
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/inference/libs/TARGET_CYSBSYSKIT-DEV-01 remote set-url --push cypress https://github.com/cypresssemiconductorco/TARGET_CYSBSYSKIT-DEV-01
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-lib/release-v1.3.1 remote set-url cypress https://github.com/cypresssemiconductorco/core-lib
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/psoc6cm0p/release-v2.3.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/psoc6cm0p
+Cloning into 'release-v1.9.0'...
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-make/release-v1.9.1 remote set-url cypress https://github.com/cypresssemiconductorco/core-make
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-lib/release-v1.3.1 remote set-url --push cypress https://github.com/cypresssemiconductorco/core-lib
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/retarget-io/release-v1.4.0 remote set-url cypress https://github.com/cypresssemiconductorco/retarget-io
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-make/release-v1.9.1 remote set-url --push cypress https://github.com/cypresssemiconductorco/core-make
+Success: git -C C:/Projects-2022/EdgeML/codes/model/inference/libs/TARGET_CYSBSYSKIT-DEV-01 remote set-url --push cypress https://github.com/cypresssemiconductorco/TARGET_CYSBSYSKIT-DEV-01
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/retarget-io/release-v1.4.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/retarget-io
+done.
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/recipe-make-cat1a clone --origin cypress --no-checkout C:/Users/Rajasekhar/.modustoolbox/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a release-v1.9.0
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/inference/libs/TARGET_CYSBSYSKIT-DEV-01 remote add cypress-offline C:/Users/Rajasekhar/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_TARGET_CYSBSYSKIT-DEV-01/TARGET_CYSBSYSKIT-DEV-01
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/psoc6cm0p/release-v2.3.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/psoc6cm0p
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/recipe-make-cat1a/release-v1.9.0 checkout release-v1.9.0
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-lib/release-v1.3.1 remote set-url --push cypress https://github.com/cypresssemiconductorco/core-lib
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/psoc6cm0p/release-v2.3.0 remote add cypress-offline C:/Users/Rajasekhar/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_psoc6cm0p/psoc6cm0p
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-make/release-v1.9.1 remote set-url --push cypress https://github.com/cypresssemiconductorco/core-make
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-lib/release-v1.3.1 remote add cypress-offline C:/Users/Rajasekhar/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_core-lib/core-lib
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/retarget-io/release-v1.4.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/retarget-io
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-make/release-v1.9.1 remote add cypress-offline C:/Users/Rajasekhar/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_core-make/core-make
+Success: git -C C:/Projects-2022/EdgeML/codes/model/inference/libs/TARGET_CYSBSYSKIT-DEV-01 remote add cypress-offline C:/Users/Rajasekhar/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_TARGET_CYSBSYSKIT-DEV-01/TARGET_CYSBSYSKIT-DEV-01
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/retarget-io/release-v1.4.0 remote add cypress-offline C:/Users/Rajasekhar/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io
+Note: switching to 'release-v2.2.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at c3e71c0 Upload mtb-hal-cat1 2.2.0.29808
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-hal-cat1/release-v2.2.0 checkout release-v2.2.0
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote set-url cypress https://github.com/cypresssemiconductorco/mtb-hal-cat1
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/psoc6cm0p/release-v2.3.0 remote add cypress-offline C:/Users/Rajasekhar/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_psoc6cm0p/psoc6cm0p
+Note: switching to 'release-v1.9.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 656d8c5 Upload recipe-make-cat1a 1.9.0.2249
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/recipe-make-cat1a/release-v1.9.0 checkout release-v1.9.0
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/recipe-make-cat1a/release-v1.9.0 remote set-url cypress https://github.com/cypresssemiconductorco/recipe-make-cat1a
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-lib/release-v1.3.1 remote add cypress-offline C:/Users/Rajasekhar/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_core-lib/core-lib
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/core-make/release-v1.9.1 remote add cypress-offline C:/Users/Rajasekhar/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_core-make/core-make
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/retarget-io/release-v1.4.0 remote add cypress-offline C:/Users/Rajasekhar/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote set-url cypress https://github.com/cypresssemiconductorco/mtb-hal-cat1
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/mtb-hal-cat1
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/recipe-make-cat1a/release-v1.9.0 remote set-url cypress https://github.com/cypresssemiconductorco/recipe-make-cat1a
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/recipe-make-cat1a/release-v1.9.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/recipe-make-cat1a
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/mtb-hal-cat1
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote add cypress-offline C:/Users/Rajasekhar/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/recipe-make-cat1a/release-v1.9.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/recipe-make-cat1a
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/recipe-make-cat1a/release-v1.9.0 remote add cypress-offline C:/Users/Rajasekhar/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote add cypress-offline C:/Users/Rajasekhar/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/recipe-make-cat1a/release-v1.9.0 remote add cypress-offline C:/Users/Rajasekhar/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a
+Note: switching to 'release-v2.4.1'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 26c73d7 Upload mtb-pdl-cat1 2.4.1.17937
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-pdl-cat1/release-v2.4.1 checkout release-v2.4.1
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-pdl-cat1/release-v2.4.1 remote set-url cypress https://github.com/cypresssemiconductorco/mtb-pdl-cat1
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-pdl-cat1/release-v2.4.1 remote set-url cypress https://github.com/cypresssemiconductorco/mtb-pdl-cat1
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-pdl-cat1/release-v2.4.1 remote set-url --push cypress https://github.com/cypresssemiconductorco/mtb-pdl-cat1
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-pdl-cat1/release-v2.4.1 remote set-url --push cypress https://github.com/cypresssemiconductorco/mtb-pdl-cat1
+Starting: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-pdl-cat1/release-v2.4.1 remote add cypress-offline C:/Users/Rajasekhar/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1
+Success: git -C C:/Projects-2022/EdgeML/codes/model/mtb_shared/mtb-pdl-cat1/release-v2.4.1 remote add cypress-offline C:/Users/Rajasekhar/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1
+Writing the file 'C:/Projects-2022/EdgeML/codes/model/inference/libs/app.mk'.
+Successfully committed changes to the project 'mtb-example-psoc6-hello-world'.
+Project "inference" created successfully.
+Successfully created "inference" application.
+INFO:the application environment had an empty 'MTB_CACHE_DIR', assuming default location
+INFO:the application environment had an empty 'MTB_OFFLINE_DIR', assuming default location
+INFO:the application environment had an empty 'MTB_GLOBAL_DIR', assuming default location
+Note: The 'inference' application uses the ModusToolbox 2.x format. This application does not support 3.x features. See KBA236134 for instructions on how to migrate the application for 3.x content compatibility.
+==============================================================================
+= Export "inference" application to Eclipse IDE for ModusToolbox™ =
+==============================================================================
+C:/Users/Rajasekhar/ModusToolbox/tools_3.0/modus-shell/bin/make.exe eclipse CY_IDE_PRJNAME=inference CY_MAKE_IDE=eclipse CY_MAKE_IDE_VERSION=2.4 CY_TOOLS_PATHS=C:/Users/Rajasekhar/ModusToolbox/tools_3.0 MTB_MAKE_ECLIPSE_FORCE_REGENERATE_PROJECT=1
+Tools Directory: C:/Users/Rajasekhar/ModusToolbox/tools_3.0
+Searching installed tools in progress...
+Searching installed tools complete
+CYSBSYSKIT-DEV-01.mk: ./libs/TARGET_CYSBSYSKIT-DEV-01/CYSBSYSKIT-DEV-01.mk
+
+Running device-configurator to update stale files...
+Log file= "C:/Users/Rajasekhar/AppData/Local/Temp/device-configurator-cli/device-configurator-cli-20221219.172748.661-14072.log"
+Command line= "C:/Users/Rajasekhar/ModusToolbox/tools_3.0/device-configurator/device-configurator-cli.exe --library ../mtb_shared/mtb-pdl-cat1/release-v2.4.1/devicesupport.xml --build ./libs/TARGET_CYSBSYSKIT-DEV-01/COMPONENT_BSP_DESIGN_MODUS/design.modus --check-mcu=CY8C624AFNI-S2D43 --check-coprocessors=CYW43012TC0KFFBH --readonly"
+INFO: The file was last saved with a different version of the tools than will be used to perform code generation on save. Last saved with: Configurator Backend 2.4.0.5972. Current: 'Configurator Backend 3.0.0' from 'ModusToolbox 3.0.0'.
+-> Generated device configuration file(s) in ./libs/TARGET_CYSBSYSKIT-DEV-01/COMPONENT_BSP_DESIGN_MODUS/GeneratedSource
+
+Prebuild operations complete
+Commencing build operations...
+
+Tools Directory: C:/Users/Rajasekhar/ModusToolbox/tools_3.0
+CYSBSYSKIT-DEV-01.mk: ./libs/TARGET_CYSBSYSKIT-DEV-01/CYSBSYSKIT-DEV-01.mk
+
+Initializing build: mtb-example-psoc6-hello-world Debug CYSBSYSKIT-DEV-01 GCC_ARM
+
+Auto-discovery in progress...
+-> Found 211 .c file(s)
+-> Found 46 .S file(s)
+-> Found 22 .s file(s)
+-> Found 0 .cpp file(s)
+-> Found 0 .o file(s)
+-> Found 0 .a file(s)
+-> Found 565 .h file(s)
+-> Found 0 .hpp file(s)
+-> Found 0 resource file(s)
+Applying filters...
+Auto-discovery complete
+
+Constructing build rules...
+Build rules construction complete
+
+==============================================================================
+= Generating IDE files =
+==============================================================================
+
+Generated Eclipse launch config files:  "inference Attach (JLink).launch" "inference Attach (KitProg3_MiniProg4).launch" "inference Debug (JLink).launch" "inference Debug (KitProg3_MiniProg4).launch" "inference Erase (JLink).launch" "inference Erase (KitProg3_MiniProg4).launch" "inference Program (JLink).launch" "inference Program (KitProg3_MiniProg4).launch"
+  
+The application "inference" was successfully exported to Eclipse IDE for ModusToolbox™.
+0 error(s), 0 warning(s)
+
+Summary:
+
+Successfully created and exported "inference" application.
